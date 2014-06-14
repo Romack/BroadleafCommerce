@@ -51,8 +51,8 @@
         </developer>
     </developers>
     <modules>
-        <module>broadleaf-admin-module-geb</module>
-        <module>broadleaf-open-admin-platform-geb</module>
-        <module>broadleaf-contentmanagement-module-geb</module>
+        <module>broadleaf-admin-module</module>
+        <module>broadleaf-open-admin-platform</module>
+        <module>broadleaf-contentmanagement-module</module>
     </modules>
 </project>

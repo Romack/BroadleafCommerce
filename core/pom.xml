@@ -51,9 +51,9 @@
         </developer>
     </developers>
     <modules>
-        <module>broadleaf-profile-geb</module>
-        <module>broadleaf-profile-web-geb</module>
-        <module>broadleaf-framework-geb</module>
-        <module>broadleaf-framework-web-geb</module>
+        <module>broadleaf-profile</module>
+        <module>broadleaf-profile-web</module>
+        <module>broadleaf-framework</module>
+        <module>broadleaf-framework-web</module>
   </modules>
 </project>
