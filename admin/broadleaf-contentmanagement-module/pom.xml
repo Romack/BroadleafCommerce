@@ -6,7 +6,7 @@
         <groupId>org.broadleafcommerce</groupId>
         <version>3.1.4-SNAPSHOT</version>
     </parent>
-    <artifactId>broadleaf-contentmanagement-module</artifactId>
+    <artifactId>broadleaf-contentmanagement-module-geb</artifactId>
     <packaging>jar</packaging>
     <name>BroadleafCommerce CMS Module</name>
     <description>BroadleafCommerce CMS Module</description>
@@ -102,11 +102,11 @@
     <dependencies>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-open-admin-platform</artifactId>
+            <artifactId>broadleaf-open-admin-platform-geb</artifactId>
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-common</artifactId>
+            <artifactId>broadleaf-common-geb</artifactId>
             <classifier>tests</classifier>
             <scope>test</scope>
         </dependency>

@@ -7,7 +7,7 @@
         <groupId>org.broadleafcommerce</groupId>
         <version>3.1.4-SNAPSHOT</version>
     </parent>
-    <artifactId>broadleaf-open-admin-platform</artifactId>
+    <artifactId>broadleaf-open-admin-platform-geb</artifactId>
     <packaging>jar</packaging>
     <name>BroadleafCommerce Open Admin Platform</name>
     <description>BroadleafCommerce Open Admin Platform</description>
@@ -194,7 +194,7 @@
     <dependencies>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-common</artifactId>
+            <artifactId>broadleaf-common-geb</artifactId>
             <exclusions>
                 <exclusion>
                     <groupId>javax.servlet</groupId>
@@ -238,7 +238,7 @@
         <!-- Tests -->
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-common</artifactId>
+            <artifactId>broadleaf-common-geb</artifactId>
             <classifier>tests</classifier>
             <scope>test</scope>
         </dependency>

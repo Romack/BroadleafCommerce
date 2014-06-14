@@ -6,7 +6,7 @@
         <version>3.1.4-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>broadleaf-framework-web</artifactId>
+    <artifactId>broadleaf-framework-web-geb</artifactId>
     <name>BroadleafCommerce Framework Web</name>
     <description>BroadleafCommerce Framework Web</description>
     <url>http://www.broadleafcommerce.org</url>
@@ -113,11 +113,11 @@
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-profile</artifactId>
+            <artifactId>broadleaf-profile-geb</artifactId>
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-profile-web</artifactId>
+            <artifactId>broadleaf-profile-web-geb</artifactId>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -125,7 +125,7 @@
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-framework</artifactId>
+            <artifactId>broadleaf-framework-geb</artifactId>
         </dependency>
         <dependency>
             <groupId>commons-collections</groupId>

@@ -6,7 +6,7 @@
         <version>3.1.4-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>broadleaf-profile-web</artifactId>
+    <artifactId>broadleaf-profile-web-geb</artifactId>
     <name>BroadleafCommerce Profile Web</name>
     <description>BroadleafCommerce Profile Web</description>
     <url>http://www.broadleafcommerce.org</url>
@@ -97,7 +97,7 @@
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
-            <artifactId>broadleaf-profile</artifactId>
+            <artifactId>broadleaf-profile-geb</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
