@@ -12,3 +12,5 @@ blocks:
           commands:
             - checkout
             - 'echo "Token: $GITHUB_TOKEN"'
+      secrets:
+        - name: testsecret
